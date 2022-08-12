@@ -1,4 +1,4 @@
-# my-project
+# payment-demo-front
 
 ## Project setup
 ```
